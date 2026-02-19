@@ -20,7 +20,7 @@ I focus on building **production-ready systems**, not just projects.
 
 ---
 
-## 🎯 What I’m Looking For
+## What I’m Looking For
 
 - AI/ML collaborations  
 - Full-stack system design projects  
@@ -37,7 +37,7 @@ I focus on building **production-ready systems**, not just projects.
 
 ---
 
-## ⚡ Philosophy
+## Philosophy
 
 I don’t just write code.  
 I design systems that scale.
