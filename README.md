@@ -10,11 +10,11 @@ I build intelligent systems, scalable web applications, and AI-powered automatio
 
 I specialize in:
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧩 LLM-based Automation Systems  
-- 🌐 Full-Stack Web Development  
-- ⚙️ Workflow Automation (n8n, APIs, system design)  
-- 🔐 Security-focused backend architecture  
+- Artificial Intelligence & Machine Learning  
+- LLM-based Automation Systems  
+- Full-Stack Web Development  
+- Workflow Automation (n8n, APIs, system design)  
+- Security-focused backend architecture  
 
 I focus on building **production-ready systems**, not just projects.
 
@@ -29,10 +29,10 @@ I focus on building **production-ready systems**, not just projects.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 📧 Email: krudrax16@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rudrax-kongbrailatpam/  
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/517fee17-1bdf-4e17-976f-1824dcfe9a25" /> LinkedIn: https://www.linkedin.com/in/rudrax-kongbrailatpam/  
 - 🌐 Portfolio: https://rudrax-portfolio-omega.vercel.app/
 
 ---
