@@ -33,7 +33,7 @@ I focus on building **production-ready systems**, not just projects.
 
 - Email: krudrax16@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/rudrax-kongbrailatpam/  
-- Portfolio: https://rudrax-portfolio-omega.vercel.app/
+- Portfolio: https://rudraxkongbrailatpam.vercel.app/
 
 ---
 
