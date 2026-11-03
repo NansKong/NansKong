@@ -1,8 +1,10 @@
 # Hi, I’m Rudrax Kongbrailatpam 👋
 
-**AI/ML engineer · Full-stack developer · Automation builder · 3D tinkerer**
+![Rotating wireframe cube alongside AI, Full Stack, and Workflow Automation](assets/profile-motion.svg)
 
-I work on language technology, build web apps and APIs, and automate the workflows that connect them. I’m especially interested in making AI work for languages with limited training data. On the creative side, I’m exploring interactive 3D and ways to make technical ideas easier to see and explore.
+**AI/ML engineer · Full-stack developer · Automation builder**
+
+I work on language technology, build web apps and APIs, and automate the workflows that connect them. I’m especially interested in making AI work for languages with limited training data.
 
 [Portfolio](https://rudraxkongbrailatpam.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rudrax-kongbrailatpam/) · [Email](mailto:krudrax16@gmail.com) · [GitHub activity](https://github.com/NansKong?tab=overview#contribution-activity)
 
@@ -15,12 +17,11 @@ I work on language technology, build web apps and APIs, and automate the workflo
 | [**Manipuri Corpus**](https://github.com/NansKong/Manipuri_Corpus) | A companion repository for exploring Manipuri language data. |
 
 <details>
-<summary><strong>What I build and tinker with</strong></summary>
+<summary><strong>What I work on</strong></summary>
 
 - **AI research and engineering** · multilingual NLP, datasets, tokenizers, LLM workflows, and evaluation
 - **Full-stack systems** · web applications, APIs, and security-minded backend design
 - **Workflow automation** · n8n, integrations, and tools that reduce manual steps
-- **Creative coding and 3D** · browser-based scenes, interactive experiments, and spatial visualizations
 
 </details>
 
