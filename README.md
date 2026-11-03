@@ -1,10 +1,10 @@
-# Hi, I’m Rudrax Kongbrailatpam 👋
+# Hi, I’m Rudrax Kongbrailatpam <img src="assets/waving-hand.svg" width="28" height="28" alt="Waving hand">
 
 **AI/ML engineer · Full-stack developer · Automation builder**
 
 I work on language technology, build web apps and APIs, and automate the workflows that connect them. I’m especially interested in making AI work for languages with limited training data.
 
-[Portfolio](https://rudraxkongbrailatpam.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rudrax-kongbrailatpam/) · [Email](mailto:krudrax16@gmail.com) · [GitHub activity](https://github.com/NansKong?tab=overview#contribution-activity)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5755AA?style=for-the-badge)](https://rudraxkongbrailatpam.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rudrax-kongbrailatpam/) [![Email](https://img.shields.io/badge/Email-A43D53?style=for-the-badge)](mailto:krudrax16@gmail.com) [![GitHub Activity](https://img.shields.io/badge/GitHub%20Activity-24292F?style=for-the-badge)](https://github.com/NansKong?tab=overview#contribution-activity)
 
 ## Featured work
 
