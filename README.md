@@ -4,7 +4,7 @@
 
 I work on language technology, build web apps and APIs, and automate the workflows that connect them. I’m especially interested in making AI work for languages with limited training data.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5755AA?style=for-the-badge)](https://rudraxkongbrailatpam.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rudrax-kongbrailatpam/) [![Email](https://img.shields.io/badge/Email-A43D53?style=for-the-badge)](mailto:krudrax16@gmail.com) [![GitHub Activity](https://img.shields.io/badge/GitHub%20Activity-24292F?style=for-the-badge)](https://github.com/NansKong?tab=overview#contribution-activity)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5755AA?style=for-the-badge)](https://rudraxkongbrailatpam.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rudrax-kongbrailatpam/) [![Email](https://img.shields.io/badge/Email-A43D53?style=for-the-badge)](mailto:krudrax16@gmail.com) [![GitHub Activity](https://img.shields.io/badge/GitHub%20Activity-24292F?style=for-the-badge)](https://github.com/NansKong?tab=overview#contribution-activity) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nanskong)
 
 ## Featured work
 
