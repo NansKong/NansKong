@@ -1,7 +1,5 @@
 # Hi, I’m Rudrax Kongbrailatpam 👋
 
-![Rotating wireframe cube alongside AI, Full Stack, and Workflow Automation](assets/profile-motion.svg)
-
 **AI/ML engineer · Full-stack developer · Automation builder**
 
 I work on language technology, build web apps and APIs, and automate the workflows that connect them. I’m especially interested in making AI work for languages with limited training data.
