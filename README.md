@@ -40,7 +40,6 @@ Open and closed pull requests are shown honestly; only merged work is marked **M
 
 [View all public contribution PRs](https://github.com/pulls?q=is%3Apr+author%3ANansKong+-user%3ANansKong+is%3Apublic)
 
-_Refreshed daily by GitHub Actions._
 <!-- OPEN-SOURCE:END -->
 
 ## Let’s collaborate
