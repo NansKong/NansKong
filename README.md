@@ -31,15 +31,16 @@ Open and closed pull requests are shown honestly; only merged work is marked **M
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | [fix: propagate symbol asset download failures #2057](https://github.com/google/material-design-icons/pull/2057) | Open |
 | [google/styleguide](https://github.com/google/styleguide) | [docguide: fix reference links cross-reference in tables #1081](https://github.com/google/styleguide/pull/1081) | Merged |
 | [google/XNNPACK](https://github.com/google/XNNPACK) | [Fix relative repository roots in compile command comparison #11992](https://github.com/google/XNNPACK/pull/11992) | Open |
-| [google/material-design-icons](https://github.com/google/material-design-icons) | [fix: propagate symbol asset download failures #2057](https://github.com/google/material-design-icons/pull/2057) | Open |
 | [google/material-design-icons](https://github.com/google/material-design-icons) | [fix: propagate symbol asset download failures #2056](https://github.com/google/material-design-icons/pull/2056) | Closed (unmerged) |
 | [Santhosh-zeta/ColdGuard](https://github.com/Santhosh-zeta/ColdGuard) | [fix(core): explain dominant freeze damage in decisions #149](https://github.com/Santhosh-zeta/ColdGuard/pull/149) | Merged |
 | [react/react-native](https://github.com/react/react-native) | [Fix CLI bundle output options and missing iOS asset catalog failures #59885](https://github.com/react/react-native/pull/59885) | Open |
 
 [View all public contribution PRs](https://github.com/pulls?q=is%3Apr+author%3ANansKong+-user%3ANansKong+is%3Apublic)
 
+_Refreshed daily by GitHub Actions._
 <!-- OPEN-SOURCE:END -->
 
 ## Let’s collaborate
